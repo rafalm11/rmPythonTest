@@ -1,7 +1,0 @@
-README.md
-addOne.py
-setup.py
-rmAddOne.egg-info/PKG-INFO
-rmAddOne.egg-info/SOURCES.txt
-rmAddOne.egg-info/dependency_links.txt
-rmAddOne.egg-info/top_level.txt
